@@ -1,8 +1,8 @@
 const pets = [
-    {"name": "Buddy", "type": "Dog", "age": 3, "img": "img/dog01.jpg"},
-    {"name": "Buddy", "type": "Dog", "age": 3, "img": "img/dog02.jpg"},
-    {"name": "Whiskers", "type": "Cat", "age": 2, "img": "img/cat01.jpg"},
-    {"name": "Mittens", "type": "Cat", "age": 2, "img": "img/cat02.jpg"},
+    {"name": "Bobby", "type": "Dog", "age": 3, "img": "img/dog01.jpg"},
+    {"name": "Johnny", "type": "Dog", "age": 3, "img": "img/dog02.jpg"},
+    {"name": "Miley", "type": "Cat", "age": 2, "img": "img/cat01.jpg"},
+    {"name": "Taylor", "type": "Cat", "age": 2, "img": "img/cat02.jpg"},
   
   ]
   

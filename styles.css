@@ -14,7 +14,7 @@ header {
 nav a {
     margin: 0 15px;
     text-decoration: none;
-    color: white;
+    color: rgb(7, 238, 104);
     font-weight: bold;
 }
 
@@ -53,5 +53,5 @@ button:hover {
 }
 
 h1{
-    color: red;
+    color: rgb(21, 255, 0);
 }
