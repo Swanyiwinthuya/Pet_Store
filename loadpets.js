@@ -26,10 +26,10 @@ function loadPets() {
     petList.append(petItem);
   });
 
-  // Attach click handler using event delegation
+
   petList.on("click", ".adopt-btn", adoptPet);
 
-  // install event handler for pet type
+ 
   $('input[name="pet-type"]').on("change", function () {
     const selectedType = $(this).val();
     filterPets();
